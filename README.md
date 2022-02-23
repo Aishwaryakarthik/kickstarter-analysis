@@ -25,7 +25,7 @@ We take the Kickstarter analysis worksheet, we add a new column years and save t
 Make sure to include the entire cell range to a new worksheet. On the right side filter the data using parent category and years and outcomes as row values and column. Click on the years cell range and group them to get the months. 
 A new pivot table with filters and values are ready to view. Use filters in row labels to check canceled, successful and failed outcomes. Filter the parent category to theatre and check select all in years.
 
-https://1drv.ms/x/s!AlKtrx-dsEKQgQVJr99hEHHPhHyr?e=vgUTMt
+https://1drv.ms/x/s!AlKtrx-dsEKQgQ_N3rgObJwwa1mi?e=n4FHDr
 
  Our pivot table with theatre outcome based on the launching dare is ready now. Create a pivot chart by selecting the entire pivot table that we just created. Choose ‘stacked line chart’ and remember to add the chart title to it.
  
@@ -53,7 +53,7 @@ We can now select the entire worksheet labeled ‘outcomes based on goal’ and 
 
 The line chart will result as follows:
 
-![outcomes based on goal](https://user-images.githubusercontent.com/99555513/155053682-cfe0b07a-106d-4ef8-a534-d2049b0b5a00.png)
+![outcomes based on goal](https://user-images.githubusercontent.com/99555513/155363905-834ebd97-a884-457c-8150-e8e1da4bbbbd.png)
 
  
 Challenges and difficulties encountered:
